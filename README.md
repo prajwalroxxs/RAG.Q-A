@@ -17,3 +17,6 @@ Ask natural, human-like questions such as:
 - “Do graduates have a better chance of loan approval?”
 - “Do married applicants have better approval chances?”
 - “How does income level influence the decision?”
+
+
+*Celebal Technologies Week 8 assignment*
